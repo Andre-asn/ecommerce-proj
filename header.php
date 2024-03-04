@@ -1,7 +1,8 @@
 <header id="header">
     <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
         <div class="container-fluid">
-            <a class="navbar-brand mb-0 h1" href="home.php">Anime Axis</a>
+            <a class="navbar-brand mb-0 h1" href="index.php">Anime Axis</a>
+            <a class="navbar-brand mb-0 h3" href="index.php">DISCLAIMER: This is a fictitious website, there is no distribution of items on here</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav" aria-controls="nav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
